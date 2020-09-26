@@ -15,6 +15,6 @@
   ],
   "author": "Vasiliy Strelnikov",
   "devDependencies": {
-    "electron": "^1.6.18"
+    "electron": "^10.1.2"
   }
 }
